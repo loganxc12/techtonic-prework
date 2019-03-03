@@ -1,4 +1,4 @@
-BASIC INTERNET TERMINOLOGY AND UNDERSTANDING
+Basic Internet Terminology And Understanding
 ============================================
 
 Internet
@@ -40,7 +40,7 @@ Protocol
 URLS
 ------------
     * Uniform Resource Locator - web address for an online resource; unique and defines where to find something on the internet and how the computer is supposed to read it, made of 3 basic parts: 
-        1. Protocol (https://) - declares how your web browser should communicate with a web server when sending or fetching a web page or document. 
+        1. Protocol (https://) - declares how web browser should communicate with a web server when sending or fetching a web page. 
         2. Domain - wikipedia.com
         3. Path (/cheese.html) - typically refers to a file or directory on the web server.
     // More Parts - from "Anatomy of a URL" //
