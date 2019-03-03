@@ -84,5 +84,43 @@ Thing 12: Browsers and Privacy
 -------------------------------
 * Security and privacy are not the same - privacy features help keep your browsing private on your computer. Can clear browser data, use "incognito" mode, and manages cookies in browser prefernces. 
 
-Thing 12: Malware, Phishing and Security Risks
+Thing 12 & 13: Malware, Phishing and Security Risks
 -------------------------------
+* Phishing - when someone masquerades as someone else, often with a fake website, to trick you into sharing personal information (bad guys throw out electronic "bait" and wait for someone to bite).
+* Malware - malicious software installed on your machine, usually without your knowledge designed to steal your information or harm your computer. 
+* Up-to-date browser = first line of defense, limits 3 risks: 
+    1. How often you come into contact with an attacker. 
+    2. How vulnerable your browser is if it's attacked.
+    3. How much damage is done if an attacker finds vulnerabilities in your browser - uses contained "sandbox" environment to keep malware and other security threats from infecting your computer.
+
+Thing 15: Using Web Addresses To Stay Safe
+-------------------------------
+* URL = Uniform Resource Locator.
+* For security, make sure:
+    * Hostname/domain is correct as only the legitimate owner of that hostname can use it. 
+    * Scheme/protocol is https:// - indicates that data is being transported between the server and browser using a secure connection. 
+
+Thing 16: IP Addresses and DNS
+-------------------------------
+* Every URL has its own Internet Protocol (IP) address - series of numbers that tells us where a particular device is on the Internet network.
+* IP address tells your computer which other device on the Internet to communicate with - to send data and to get data from.
+* Domain Name System (DNS) - "phone book" of the web, translates a URL into the right IP address. Fetching and loading a web page in the browser is not unlike making a phone call... 
+
+Thing 17: Validating Identities Online 
+-------------------------------
+* "Extended validation certificate" - something that ties the domain name of the web address back to some real-world identity; to recieve, a website owner has to pass a series of checks confirming their legal identity and authority. 
+
+Thing 18: Evolving to a Faster Web
+-------------------------------
+* Web experiences becoming much more visual, interactive and data-intensive but browsers are responding with new file compression, faster Javascript engines (V8), DNS pre-resolution etc.
+
+Thing 19: Open Source and Browsers
+-------------------------------
+* "Open source" - the inner workings/source code of a software are made available to all, and the software is written in an open, collaborative way. 
+
+Thing 20: 19 Things Later...
+-------------------------------
+* Takeaways: 
+    1. Use a modern browser. 
+    2. The web will keep evolving - dramatically!
+    3. Try new things - you might be surprised by all that can now be done online.
